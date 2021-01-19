@@ -22,10 +22,8 @@ namespace ClassMetotDemo
 
             foreach (Musteri musteri in musteriler)
             {
-
                 
                 Console.WriteLine("[ Id : {0}   Adı : {1}  Soyadı : {2} ]", musteri.Id, musteri.Ad, musteri.Soyad);
-
             }
 
             Console.WriteLine("===========================================\n");
